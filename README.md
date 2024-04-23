@@ -1,2 +1,8 @@
-# tennis-analysis
-Tennis analysis system using YOLOv8 for player &amp; ball detection, custom CNN for court key points, and object tracking. Measures player speed, ball speed, and shot count.
+# Tennis Analysis System
+This project analyzes tennis gameplay using computer vision and machine learning techniques. It detects players and tennis balls using YOLOv8, tracks them across video frames, and extracts court key points using a custom CNN. The system measures player speed, ball shot speed, and the number of shots, providing valuable insights for tennis analysis.
+
+# Key Features
+Player and tennis ball detection using YOLOv8
+Court key point extraction using a custom CNN
+Object tracking across video frames
+Measurement of player speed, ball shot speed, and shot count
