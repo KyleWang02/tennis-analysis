@@ -10,7 +10,8 @@ This project analyzes tennis gameplay using computer vision and machine learning
 - **Measurement** of player speed, ball shot speed, and shot count
 
 ## Demo
-
+![237608109-916287fb-e507-40a1-8bb8-7ab9f3dafbc3](https://github.com/KyleWang02/tennis-analysis/assets/143637580/1774c6c5-957e-43e4-8f32-d127ec4a6fce)
+![ezgif com-gif-maker](https://github.com/KyleWang02/tennis-analysis/assets/143637580/46bd7cc4-792f-4e88-bfe7-346c732230e7)
 
 ## Requirements
 
